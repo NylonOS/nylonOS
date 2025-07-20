@@ -1,0 +1,15 @@
+[submodule "meta-nylon"]
+	path = meta-nylon
+	url = git@github.com:NylonOS/meta-nylon.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git@github.com:openembedded/meta-openembedded.git
+	branch = kirkstone
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
+	branch = kirkstone
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+	branch = kirkstone
